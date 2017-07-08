@@ -1,0 +1,91 @@
+--temp-output:C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\obj\Debug\net452\
+--out:C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\bin\Debug\net452\No.Added.Parser.dll
+--define:DEBUG
+--define:TRACE
+--define:NET452
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--optimize:False
+--output-name:No.Added.Parser
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.5.2
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Collections.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Collections.Concurrent.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Diagnostics.Debug.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Diagnostics.Tools.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Diagnostics.Tracing.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Globalization.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.IO.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.IO.Compression.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Linq.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Linq.Expressions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Net.Primitives.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.ObjectModel.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Reflection.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Reflection.Extensions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Reflection.Primitives.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Resources.ResourceManager.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.Extensions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.InteropServices.dll
+--reference:C:\Users\Gebruiker\.nuget\packages\System.Runtime.InteropServices.RuntimeInformation\4.0.0\ref\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.Numerics.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Text.Encoding.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Text.Encoding.Extensions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Text.RegularExpressions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Threading.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Threading.Tasks.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Threading.Timer.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.ReaderWriter.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.XDocument.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\DefaultParser.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Utils.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\EndOfCode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\EndOfExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\IdentifierCode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\NumberCode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\RawCode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\RawScript.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\Script.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\SetEnd.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\SetStart.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\TextCode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\TokenCode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Code\TokenStack.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\AdditiveExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\ArgumentList.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\CallExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\DecimalLiteral.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\ElementList.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\EqualityExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\GroupExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\Identifier.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\IntegerLiteral.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\IVisitor.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\LogicalExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\MemberExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\MultiplicativeExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\RelationalExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\StringLiteral.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Expressions\UnaryExpression.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\EndNode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\ListNode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\Node.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\NodeRoot.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\NodeType.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\ParseException.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\ProxyNode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\RootNode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Nodes\TreeNode.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Properties\AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Readers\ScriptReader bu.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Readers\ScriptReader.cs
+C:\Users\Gebruiker\Documents\Tom\No Added Ingredients\Projects\Parser\No.Added.Parser\Readers\ScriptString.cs
