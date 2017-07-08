@@ -100,25 +100,28 @@
         }
     }
 
+    /// <summary>
+    /// First simple test.
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
         {
             var visitor = new Visitor();
             var testing = new List<string>();
-            testing.Add(@"('Aap Noot') == ('Boefjes\'\nscheet') && ((5) == (7))");
-            testing.Add(@"('Aap Noot') == ('Boefjes\'\nscheet') && ((5)==( 7))");
+            testing.Add(@"('Aap Noot') == ('Boefjes\'\ndrop') && ((5) == (7))");
+            testing.Add(@"('Aap Noot') == ('Boefjes\'\ndrop') && ((5)==( 7))");
 
             testing.Add(@"-3== 0xF5 +.790+0e-098-0E-0");
             testing.Add(@"-(3)== 0xF5 +.790+0e-098-0E-0");
 
             testing.Add(@"aap( a == b && 3 != 4)");
-            testing.Add(@"poes(.34, -7, 'TESTING' == 'SNOT')");
-            testing.Add(@"('Aap Noot')==('Boefjes\'\nscheet')&&((5)==(678))");
+            testing.Add(@"poes(.34, -7, 'TESTING' == 'peuter')");
+            testing.Add(@"('Aap Noot')==('Boefjes\'\ndrop')&&((5)==(678))");
 
-            testing.Add(@" (('Aap Noot' == 'Boefjes\'\nscheet' && 5 == 7 ) || ( aap != poes) ) && (-3== 0xF5 +.790+0e-098-0E-0)");
-            testing.Add(@" (('Aap Noot' == 'Boefjes\'\nscheet' && 5 == 7 ) || (! poep.snot.konijn.aap( a == b && 3 != 4) != poes (.34, -7, 'TESTING' == 'SNOT')) ) && (-3== 0xF5 +.790+1e-5-0E-0)");
-            testing.Add(@"poep.snot.konijn.aap");
+            testing.Add(@" (('Aap Noot' == 'Boefjes\'\ndrop' && 5 == 7 ) || ( aap != poes) ) && (-3== 0xF5 +.790+0e-098-0E-0)");
+            testing.Add(@" (('Aap Noot' == 'Boefjes\'\ndrop' && 5 == 7 ) || (! dropjes.peuter.konijn.aap( a == b && 3 != 4) != poes (.34, -7, 'TESTING' == 'peuter')) ) && (-3== 0xF5 +.790+1e-5-0E-0)");
+            testing.Add(@"dropjes.peuter.konijn.aap");
             do
             {
                 var wait = Console.ReadLine();

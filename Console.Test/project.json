@@ -16,5 +16,6 @@
     "netcoreapp1.0": {
       "imports": "dnxcore50"
     }
-  }
+  },
+  "userSecretsId": "aspnet-Console.Test-20170708080916"
 }
